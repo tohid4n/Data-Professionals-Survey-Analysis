@@ -1,3 +1,5 @@
+# Power BI Survey Analysis of Data Professionals
+
 Developed an interactive Power BI dashboard to analyze survey data from data professionals. Key aspects of the project include:
 
 • Data Preparation: Imported and cleaned survey data for accuracy and consistency.
